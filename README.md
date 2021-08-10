@@ -26,9 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/Xd7qDE6.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/vRsmONw.gif' title='Video Walkthrough' width='960' alt='Video Walkthrough' />
 
-GIF created with [ShareX](https://getsharex.com/).
+GIF created with [ShareX](https://getsharex.com/) and [Imgur Video to GIF](https://imgur.com/vidgif).
 
 ## Notes
 
